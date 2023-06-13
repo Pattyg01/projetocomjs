@@ -1,0 +1,29 @@
+body{
+  background: url(imgs/fundo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw;
+  color: white;
+}
+
+h1{
+    font-size: 50pt;
+    display: flex;
+}
+
+p{
+    float: left;
+    word-wrap: break-word;
+    margin-bottom: 30pt;
+}
+
+a{
+  float: left;
+  color: beige;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+img{
+    float: right;
+}
